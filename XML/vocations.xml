@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocations>
+	<vocation id="0" clientid="0" name="None" description="none" gaincap="10" gainhp="5" gainmana="5" gainhpticks="12" gainhpamount="1" gainmanaticks="6" gainmanaamount="2" manamultiplier="4.0" attackspeed="500" basespeed="220" soulmax="100" gainsoulticks="120" fromvoc="0">
+		<formula meleeDamage="1.0" distDamage="1.0" defense="1.0" armor="1.0" />
+		<skill id="0" multiplier="1.5" />
+		<skill id="1" multiplier="2.0" />
+		<skill id="2" multiplier="2.0" />
+		<skill id="3" multiplier="2.0" />
+		<skill id="4" multiplier="2.0" />
+		<skill id="5" multiplier="1.5" />
+		<skill id="6" multiplier="1.1" />
+	</vocation>
+	<vocation id="1" clientid="3" name="Sorcerer" description="a sorcerer" gaincap="10" gainhp="5" gainmana="30" gainhpticks="2" gainhpamount="10" gainmanaticks="2" gainmanaamount="15" manamultiplier="1.1" attackspeed="2000" basespeed="220" soulmax="100" gainsoulticks="120" fromvoc="1">
+		<formula meleeDamage="1.0" distDamage="1.0" defense="1.0" armor="1.0" />
+		<skill id="0" multiplier="1.5" />
+		<skill id="1" multiplier="2.0" />
+		<skill id="2" multiplier="2.0" />
+		<skill id="3" multiplier="2.0" />
+		<skill id="4" multiplier="2.0" />
+		<skill id="5" multiplier="1.5" />
+		<skill id="6" multiplier="1.1" />
+	</vocation>
+	<vocation id="2" clientid="4" name="Druid" description="a druid" gaincap="10" gainhp="5" gainmana="30" gainhpticks="2" gainhpamount="5" gainmanaticks="2" gainmanaamount="15" manamultiplier="1.1" attackspeed="2000" basespeed="220" soulmax="100" gainsoulticks="120" fromvoc="2">
+		<formula meleeDamage="1.0" distDamage="1.0" defense="1.0" armor="1.0" />
+		<skill id="0" multiplier="1.5" />
+		<skill id="1" multiplier="1.8" />
+		<skill id="2" multiplier="1.8" />
+		<skill id="3" multiplier="1.8" />
+		<skill id="4" multiplier="1.8" />
+		<skill id="5" multiplier="1.5" />
+		<skill id="6" multiplier="1.1" />
+	</vocation>
+	<vocation id="3" clientid="2" name="Paladin" description="a paladin" gaincap="20" gainhp="10" gainmana="15" gainhpticks="2" gainhpamount="15" gainmanaticks="2" gainmanaamount="15" manamultiplier="1.4" attackspeed="2000" basespeed="220" soulmax="100" gainsoulticks="120" fromvoc="3">
+		<formula meleeDamage="1.0" distDamage="1.0" defense="1.0" armor="1.0" />
+		<skill id="0" multiplier="1.2" />
+		<skill id="1" multiplier="1.2" />
+		<skill id="2" multiplier="1.2" />
+		<skill id="3" multiplier="1.2" />
+		<skill id="4" multiplier="1.1" />
+		<skill id="5" multiplier="1.1" />
+		<skill id="6" multiplier="1.1" />
+	</vocation>
+	<vocation id="4" clientid="1" name="Knight" description="a knight" gaincap="25" gainhp="15" gainmana="5" gainhpticks="2" gainhpamount="15" gainmanaticks="2" gainmanaamount="10" manamultiplier="3.0" attackspeed="2000" basespeed="220" lessloss="25" soulmax="100" gainsoulticks="120" fromvoc="4">
+		<formula meleeDamage="1.0" distDamage="1.0" defense="1.0" armor="1.0" />
+		<skill id="0" multiplier="1.1" />
+		<skill id="1" multiplier="1.1" />
+		<skill id="2" multiplier="1.1" />
+		<skill id="3" multiplier="1.1" />
+		<skill id="4" multiplier="1.4" />
+		<skill id="5" multiplier="1.1" />
+		<skill id="6" multiplier="1.1" />
+	</vocation>
+	<vocation id="5" clientid="3" name="Master Sorcerer" description="a master sorcerer" gaincap="10" gainhp="5" gainmana="30" gainhpticks="2" gainhpamount="10" gainmanaticks="2" gainmanaamount="20" manamultiplier="1.1" attackspeed="2000" basespeed="220" soulmax="200" gainsoulticks="15" fromvoc="1">
+		<formula meleeDamage="1.0" distDamage="1.0" defense="1.0" armor="1.0" />
+		<skill id="0" multiplier="1.5" />
+		<skill id="1" multiplier="2.5" />
+		<skill id="2" multiplier="2.5" />
+		<skill id="3" multiplier="2.5" />
+		<skill id="4" multiplier="2.5" />
+		<skill id="5" multiplier="2.0" />
+		<skill id="6" multiplier="1.1" />
+	</vocation>
+	<vocation id="6" clientid="4" name="Elder Druid" description="an elder druid" gaincap="10" gainhp="5" gainmana="30" gainhpticks="2" gainhpamount="10" gainmanaticks="2" gainmanaamount="20" manamultiplier="1.1" attackspeed="2000" basespeed="220" soulmax="200" gainsoulticks="15" fromvoc="2">
+		<formula meleeDamage="1.0" distDamage="1.0" defense="1.0" armor="1.0" />
+		<skill id="0" multiplier="1.5" />
+		<skill id="1" multiplier="2.0" />
+		<skill id="2" multiplier="2.0" />
+		<skill id="3" multiplier="2.0" />
+		<skill id="4" multiplier="2.0" />
+		<skill id="5" multiplier="1.5" />
+		<skill id="6" multiplier="1.1" />
+	</vocation>
+	<vocation id="7" clientid="2" name="Royal Paladin" description="a royal paladin" gaincap="20" gainhp="10" gainmana="15" gainhpticks="2" gainhpamount="15" gainmanaticks="2" gainmanaamount="10" manamultiplier="1.4" lessloss="25" attackspeed="2000" basespeed="220" soulmax="200" gainsoulticks="15" fromvoc="3">
+		<formula meleeDamage="1.0" distDamage="1.1" defense="1.0" armor="1.0" />
+		<skill id="0" multiplier="1.2" />
+		<skill id="1" multiplier="1.2" />
+		<skill id="2" multiplier="1.2" />
+		<skill id="3" multiplier="1.2" />
+		<skill id="4" multiplier="1.1" />
+		<skill id="5" multiplier="1.1" />
+		<skill id="6" multiplier="1.1" />
+	</vocation>
+	<vocation id="8" clientid="1" name="Elite Knight" description="an elite knight" gaincap="25" gainhp="15" gainmana="5" gainhpticks="2" gainhpamount="20" gainmanaticks="2" gainmanaamount="10" manamultiplier="3.0" attackspeed="2000" basespeed="220" soulmax="200" gainsoulticks="15" fromvoc="4">
+		<formula meleeDamage="1.1" distDamage="1.0" defense="1.0" armor="1.0" />
+		<skill id="0" multiplier="1.1" />
+		<skill id="1" multiplier="1.1" />
+		<skill id="2" multiplier="1.1" />
+		<skill id="3" multiplier="1.1" />
+		<skill id="4" multiplier="1.4" />
+		<skill id="5" multiplier="1.1" />
+		<skill id="6" multiplier="1.1" />
+	</vocation>
+	<vocation id="110" clientid="110" baseid="110" name="Human" description="an Human" magicshield="0" gaincap="25" gainhp="25" gainmana="15" gainhpticks="1000" gainhpamount="15" gainmanaticks="1000" gainmanaamount="10" manamultiplier="3.0" attackspeed="2000" basespeed="110" soulmax="200" gainsoulticks="15000" fromvoc="110" avatarlooktype="1">
+		<formula meleeDamage="2.0" distDamage="2.0" defense="1.0" armor="1.0" />
+		<mitigation multiplier="1.0" primaryShield="2.0" secondaryShield="1.2" />
+		<pvp damageReceivedMultiplier="1.0" damageDealtMultiplier ="1.0"/>
+		<skill id="0" multiplier="1.2" />
+		<skill id="1" multiplier="2.4" />
+		<skill id="2" multiplier="2.4" />
+		<skill id="3" multiplier="2.4" />
+		<skill id="4" multiplier="2.4" />
+		<skill id="5" multiplier="2.4" />
+		<skill id="6" multiplier="2.4" />
+	</vocation>
+	<vocation id="111" clientid="111" baseid="111" name="Legendary Human" description="an Legendary Human" magicshield="0" gaincap="50" gainhp="50" gainmana="30" gainhpticks="1000" gainhpamount="30" gainmanaticks="1000" gainmanaamount="20" manamultiplier="3.0" attackspeed="2000" basespeed="220" soulmax="400" gainsoulticks="7500" fromvoc="110" avatarlooktype="1">
+		<formula meleeDamage="2.5" distDamage="2.5" defense="1.0" armor="1.0" />
+		<mitigation multiplier="1.0" primaryShield="2.0" secondaryShield="1.2" />
+		<pvp damageReceivedMultiplier="1.0" damageDealtMultiplier ="1.0"/>
+		<skill id="0" multiplier="1.2" />
+		<skill id="1" multiplier="2.4" />
+		<skill id="2" multiplier="2.4" />
+		<skill id="3" multiplier="2.4" />
+		<skill id="4" multiplier="2.4" />
+		<skill id="5" multiplier="2.4" />
+		<skill id="6" multiplier="2.4" />
+	</vocation>
+	<vocation id="112" clientid="112" baseid="112" name="Ghoul" description="an Ghoul" magicshield="0" gaincap="25" gainhp="20" gainmana="20" gainhpticks="1000" gainhpamount="20" gainmanaticks="1000" gainmanaamount="5" manamultiplier="3.0" attackspeed="2000" basespeed="110" soulmax="200" gainsoulticks="15000" fromvoc="112" avatarlooktype="1">
+		<formula meleeDamage="1.5" distDamage="1.5" defense="1.0" armor="1.0" />
+		<mitigation multiplier="1.0" primaryShield="2.0" secondaryShield="1.2" />
+		<pvp damageReceivedMultiplier="1.0" damageDealtMultiplier ="1.0"/>
+		<skill id="0" multiplier="1.2" />
+		<skill id="1" multiplier="2.4" />
+		<skill id="2" multiplier="2.4" />
+		<skill id="3" multiplier="2.4" />
+		<skill id="4" multiplier="2.4" />
+		<skill id="5" multiplier="2.4" />
+		<skill id="6" multiplier="2.4" />
+	</vocation>
+	<vocation id="113" clientid="113" baseid="113" name="Undead" description="an Undead" magicshield="0" gaincap="25" gainhp="40" gainmana="40" gainhpticks="500" gainhpamount="40" gainmanaticks="1000" gainmanaamount="10" manamultiplier="3.0" attackspeed="2000" basespeed="200" soulmax="400" gainsoulticks="7500" fromvoc="112" avatarlooktype="1">
+		<formula meleeDamage="2.0" distDamage="2.0" defense="1.0" armor="1.0" />
+		<mitigation multiplier="1.0" primaryShield="2.0" secondaryShield="1.2" />
+		<pvp damageReceivedMultiplier="1.0" damageDealtMultiplier ="1.0"/>
+		<skill id="0" multiplier="1.2" />
+		<skill id="1" multiplier="2.4" />
+		<skill id="2" multiplier="2.4" />
+		<skill id="3" multiplier="2.4" />
+		<skill id="4" multiplier="2.4" />
+		<skill id="5" multiplier="2.4" />
+		<skill id="6" multiplier="2.4" />
+	</vocation>
+	<vocation id="114" clientid="114" baseid="114" name="Mink" description="an Mink" magicshield="0" gaincap="25" gainhp="25" gainmana="15" gainhpticks="1000" gainhpamount="15" gainmanaticks="1000" gainmanaamount="20" manamultiplier="3.0" attackspeed="2000" basespeed="150" soulmax="200" gainsoulticks="15000" fromvoc="114" avatarlooktype="1">
+		<formula meleeDamage="1.8" distDamage="2.0" defense="1.0" armor="1.0" />
+		<mitigation multiplier="1.0" primaryShield="2.0" secondaryShield="1.2" />
+		<pvp damageReceivedMultiplier="1.0" damageDealtMultiplier ="1.0"/>
+		<skill id="0" multiplier="1.2" />
+		<skill id="1" multiplier="2.4" />
+		<skill id="2" multiplier="2.4" />
+		<skill id="3" multiplier="2.4" />
+		<skill id="4" multiplier="2.4" />
+		<skill id="5" multiplier="2.4" />
+		<skill id="6" multiplier="2.4" />
+	</vocation>
+		<vocation id="120" clientid="120" baseid="120" name="MinkV2" description="an MinkV2" magicshield="0" gaincap="25" gainhp="50" gainmana="30" gainhpticks="1000" gainhpamount="30" gainmanaticks="500" gainmanaamount="40" manamultiplier="3.0" attackspeed="2000" basespeed="300" soulmax="400" gainsoulticks="7500" fromvoc="114" avatarlooktype="1">
+		<formula meleeDamage="2.3" distDamage="2.5" defense="1.0" armor="1.0" />
+		<mitigation multiplier="1.0" primaryShield="2.0" secondaryShield="1.2" />
+		<pvp damageReceivedMultiplier="1.0" damageDealtMultiplier ="1.0"/>
+		<skill id="0" multiplier="1.2" />
+		<skill id="1" multiplier="2.4" />
+		<skill id="2" multiplier="2.4" />
+		<skill id="3" multiplier="2.4" />
+		<skill id="4" multiplier="2.4" />
+		<skill id="5" multiplier="2.4" />
+		<skill id="6" multiplier="2.4" />
+	</vocation>
+		<vocation id="121" clientid="121" baseid="121" name="Fishman" description="an Fishman" magicshield="0" gaincap="25" gainhp="30" gainmana="10" gainhpticks="1000" gainhpamount="20" gainmanaticks="500" gainmanaamount="10" manamultiplier="3.0" attackspeed="2000" basespeed="100" soulmax="200" gainsoulticks="15000" fromvoc="121" avatarlooktype="1">
+		<formula meleeDamage="2.0" distDamage="1.2" defense="1.0" armor="1.0" />
+		<mitigation multiplier="1.0" primaryShield="2.0" secondaryShield="1.2" />
+		<pvp damageReceivedMultiplier="1.0" damageDealtMultiplier ="1.0"/>
+		<skill id="0" multiplier="1.2" />
+		<skill id="1" multiplier="2.4" />
+		<skill id="2" multiplier="2.4" />
+		<skill id="3" multiplier="2.4" />
+		<skill id="4" multiplier="2.4" />
+		<skill id="5" multiplier="2.4" />
+		<skill id="6" multiplier="2.4" />
+	</vocation>
+	<vocation id="122" clientid="122" baseid="122" name="Sharkman" description="an Sharkman" magicshield="0" gaincap="25" gainhp="60" gainmana="20" gainhpticks="500" gainhpamount="40" gainmanaticks="500" gainmanaamount="20" manamultiplier="3.0" attackspeed="2000" basespeed="200" soulmax="400" gainsoulticks="7500" fromvoc="121" avatarlooktype="1">
+		<formula meleeDamage="2.5" distDamage="1.7" defense="1.0" armor="1.0" />
+		<mitigation multiplier="1.0" primaryShield="2.0" secondaryShield="1.2" />
+		<pvp damageReceivedMultiplier="1.0" damageDealtMultiplier ="1.0"/>
+		<skill id="0" multiplier="1.2" />
+		<skill id="1" multiplier="2.4" />
+		<skill id="2" multiplier="2.4" />
+		<skill id="3" multiplier="2.4" />
+		<skill id="4" multiplier="2.4" />
+		<skill id="5" multiplier="2.4" />
+		<skill id="6" multiplier="2.4" />
+	</vocation>
+	<vocation id="123" clientid="123" baseid="123" name="Skypiea" description="an Skypiea" magicshield="0" gaincap="25" gainhp="15" gainmana="25" gainhpticks="2000" gainhpamount="10" gainmanaticks="500" gainmanaamount="15" manamultiplier="3.0" attackspeed="2000" basespeed="120" soulmax="200" gainsoulticks="15000" fromvoc="123" avatarlooktype="1">
+		<formula meleeDamage="2.0" distDamage="1.2" defense="1.0" armor="1.0" />
+		<mitigation multiplier="1.0" primaryShield="2.0" secondaryShield="1.2" />
+		<pvp damageReceivedMultiplier="1.0" damageDealtMultiplier ="2.0"/>
+		<skill id="0" multiplier="1.2" />
+		<skill id="1" multiplier="2.4" />
+		<skill id="2" multiplier="2.4" />
+		<skill id="3" multiplier="2.4" />
+		<skill id="4" multiplier="2.4" />
+		<skill id="5" multiplier="2.4" />
+		<skill id="6" multiplier="2.4" />
+	</vocation>
+	<vocation id="124" clientid="124" baseid="124" name="SkypieaV2" description="an SkypieaV2" magicshield="0" gaincap="25" gainhp="30" gainmana="50" gainhpticks="1000" gainhpamount="20" gainmanaticks="500" gainmanaamount="30" manamultiplier="3.0" attackspeed="2000" basespeed="240" soulmax="400" gainsoulticks="7500" fromvoc="123" avatarlooktype="1">
+		<formula meleeDamage="2.0" distDamage="1.2" defense="1.0" armor="1.0" />
+		<mitigation multiplier="1.0" primaryShield="2.0" secondaryShield="1.2" />
+		<pvp damageReceivedMultiplier="1.0" damageDealtMultiplier ="2.5"/>
+		<skill id="0" multiplier="1.2" />
+		<skill id="1" multiplier="2.4" />
+		<skill id="2" multiplier="2.4" />
+		<skill id="3" multiplier="2.4" />
+		<skill id="4" multiplier="2.4" />
+		<skill id="5" multiplier="2.4" />
+		<skill id="6" multiplier="2.4" />
+	</vocation>
+		<vocation id="130" clientid="130" baseid="130" name="Giant" description="an Giant" magicshield="0" gaincap="25" gainhp="35" gainmana="5" gainhpticks="500" gainhpamount="20" gainmanaticks="2000" gainmanaamount="5" manamultiplier="3.0" attackspeed="3000" basespeed="100" soulmax="200" gainsoulticks="15000" fromvoc="130" avatarlooktype="1">
+		<formula meleeDamage="3.0" distDamage="3.0" defense="1.0" armor="1.0" />
+		<mitigation multiplier="1.0" primaryShield="2.0" secondaryShield="1.2" />
+		<pvp damageReceivedMultiplier="1.0" damageDealtMultiplier ="1.0"/>
+		<skill id="0" multiplier="1.2" />
+		<skill id="1" multiplier="2.4" />
+		<skill id="2" multiplier="2.4" />
+		<skill id="3" multiplier="2.4" />
+		<skill id="4" multiplier="2.4" />
+		<skill id="5" multiplier="2.4" />
+		<skill id="6" multiplier="2.4" />
+	</vocation>
+		<vocation id="131" clientid="131" baseid="131" name="Colossus" description="an Colossus" magicshield="0" gaincap="25" gainhp="70" gainmana="10" gainhpticks="500" gainhpamount="40" gainmanaticks="1000" gainmanaamount="10" manamultiplier="3.0" attackspeed="2500" basespeed="200" soulmax="400" gainsoulticks="7500" fromvoc="130" avatarlooktype="1">
+		<formula meleeDamage="3.5" distDamage="3.5" defense="1.0" armor="1.0" />
+		<mitigation multiplier="1.0" primaryShield="2.0" secondaryShield="1.2" />
+		<pvp damageReceivedMultiplier="1.0" damageDealtMultiplier ="1.0"/>
+		<skill id="0" multiplier="1.2" />
+		<skill id="1" multiplier="2.4" />
+		<skill id="2" multiplier="2.4" />
+		<skill id="3" multiplier="2.4" />
+		<skill id="4" multiplier="2.4" />
+		<skill id="5" multiplier="2.4" />
+		<skill id="6" multiplier="2.4" />
+	</vocation>
+</vocations>
